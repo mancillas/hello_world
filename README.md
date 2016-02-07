@@ -3,4 +3,4 @@ Doing the tutorial..
 
 Edits edit for edits...
 
-trying to auto fix issues
+trying to auto fix issues.
